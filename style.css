@@ -1,0 +1,126 @@
+
+body{
+    background-color:hsl(257, 40%, 49%);
+    height: 656px;
+}
+h2{
+    color: #ffffff;
+    position: relative;
+    top: -1130px;
+    left: 100px;
+}
+.backgroundimage{
+    height: 656px;
+    position: relative;
+    top: -8px;
+   } 
+.ou{
+    height: 656px;
+} 
+.illustration{
+   height: 425px;
+   width: 600px;
+   position: relative;
+   bottom: 510px;
+   left: 60px;
+      
+}
+.Headline{
+   font-weight: 600px;
+   color: #ffffff;
+   font-family: 'Poppins',sans-serif;
+}
+h1{
+    color: #ffffff;
+    font-family: "open sans";
+    position: relative;
+    left: 710px;
+    top: -920px;
+}
+p{
+    color: #ffffff;
+    position: relative;
+    left: 710px;
+    top: -920px;
+}
+.description{
+    color: #ffffff;
+    font-weight: 400px;
+
+}
+button{
+    border-radius: 30px;
+    position: relative;
+    left: 710px;
+    top: -890px;
+    height: 54px;
+    width: 196px;
+    border-style: none;
+    box-shadow: 5px 5px 10px 1px hsl(257, 40%, 36%);
+    color: hsl(257, 40%, 49%);
+    font-family: "Open Sans";
+    font-weight: 400;
+}
+.button:hover {
+    background-color: hsl(300, 69%, 71%); 
+    color: white;
+}
+.link{
+    list-style-type: none;
+    color: #ffffff;
+}
+.fa-facebook-f{
+    content: "\f39e";
+    color:#ffffff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-radius: 50% 50% 50% 50%;
+    padding: 0.8% 1% 0.8% 1%;
+    position: relative;
+    left: 1100px;
+    bottom: 132px;
+
+}
+.fa-facebook-f:hover{
+    background-color: hsl(300, 69%, 71%); 
+    color: white;
+}
+.fa-twitter:before {
+    content: "\f099";
+    color: #ffffff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-radius: 50% 50% 50% 50%; 
+    padding: 50% 50% 50% 50%;
+    position: relative;
+    left: 1153px;
+    bottom: 160px;
+}
+.fab-fa-twitter :hover{
+    background-color: hsl(300, 69%, 71%); 
+    color: white;
+}
+.fa-instagram:before {
+    content: "\f16d";
+    color: #ffffff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-radius: 50% 50% 50% 50%; 
+    padding: 60% 65% 60% 65%;
+    position: relative;
+    left: 1200px;
+    bottom: 176px;
+}
+.fa-instagram:before:hover{
+    background-color: hsl(300, 69%, 71%); 
+    color: white;
+}
+.fal-fa-comment-alt-dots{
+    color: #ffffff;
+    position: relative;
+    left: 710px;
+    top: -920px;
+}
